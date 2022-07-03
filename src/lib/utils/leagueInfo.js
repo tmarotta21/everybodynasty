@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Welcome to the everybodynasty fantasy website. Please pull up a chair, sit in the closet, and peek through the slats as your team falls to pieces.</p>
+  <center><p>Welcome to the everybodynasty fantasy website. Please pull up a chair, sit in the closet, and peek through the slats as your team falls to pieces.</p></center>
 `;
 
 /*   STEP 3   */
