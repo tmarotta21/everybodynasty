@@ -94,10 +94,23 @@
         color: #00316b;
     }
 
+	.link {
+        font-size: 2em;
+        line-height: 1.2em;
+        text-align: center;
+        margin: 2em 0 1.5em;
+	}
+
     p {
         color: #777;
     }
 </style>
+
+<div class="link">
+	<p>
+		<a href = "https://docs.google.com/document/d/1h59zbX4w2KGalplkrsnEWllj28fhSezedhmNubj3i0s/edit?usp=sharing">Link to Original Constitution</a>
+	</p>
+</div>
 
 <div class="constitution">
     <h1 class="noUnderscore">EVERYBODYNASTY CONSTITUTION</h1>

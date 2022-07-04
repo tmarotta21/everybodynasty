@@ -28,7 +28,7 @@ export const managers = [
       "bio": "Lorem ipsum...",
       "photo": "/managers/question.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2006, // (optional) when did the manager start playing fantasy football
-      "favoriteTeam": "det", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+      "favoriteTeam": "cle", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Dynasty", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "rival": {
         name: "Everyone", // Can be anything (usually your rival's name)
@@ -266,7 +266,7 @@ export const managers = [
       "roster": 12,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Stack Daddy",
       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-      "location": "Internet", // (optional)
+      "location": "New York", // (optional)
       "bio": "Lorem ipsum...",
       "photo": "/managers/question.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 1969, // (optional) when did the manager start playing fantasy football
