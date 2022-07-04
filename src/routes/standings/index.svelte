@@ -35,7 +35,7 @@
 	}
 </style>
 
-<div class="standings">
+<div>
 	<p>
 		<a href = "https://docs.google.com/spreadsheets/d/1Pa8a-XfLJ0OwoVeE1l5DMFiK8Pv1z8HzUmiRn-Pi8rQ/edit?usp=sharing">everybodynasty standings</a>
 	</p>
