@@ -267,7 +267,7 @@
     <p>The league scoring settings can be found on Sleeper. The scoring system will not change without a majority league vote.</p>
     
     <h3 bind:this={threeOne}>3.2 Standings System</h3>
-    <p>The league standings system is Roulette Standings. Standings are tracked in a separate document from Sleeper - <Link href = "https://docs.google.com/spreadsheets/d/1Pa8a-XfLJ0OwoVeE1l5DMFiK8Pv1z8HzUmiRn-Pi8rQ/edit?usp=sharing" >everybodynasty standings</Link>.</p>
+    <p>The league standings system is Roulette Standings. Standings are tracked in a separate document from Sleeper - <a href = "https://docs.google.com/spreadsheets/d/1Pa8a-XfLJ0OwoVeE1l5DMFiK8Pv1z8HzUmiRn-Pi8rQ/edit?usp=sharing">everybodynasty standings</a>.</p>
 
     <p>Roulette Standings are a standings points system, where teams earn 2 points for a head-to-head win and 1 point for a top-six weekly score. Each week the possible range of outcomes to earn "roulette "points" are:</p>
     
@@ -293,20 +293,20 @@
     <p>There is no trading allowed during the postseason and all 12 teams have access to the waiver wire.</p>
     
     <h3 bind:this={fourOne}>4.2 Consolation Bracket</h3>
-        <p>The rookie draft order for non-playoff teams is determined by a Hybrid Consolation Bracket. The bottom 3 teams in the regular season receive the 1.01, 1.02, 1.03 picks in reverse order of regular season standings. Tiebreakers for the higher pick are determined by fewer roulette points, then fewer PPG.</p>
-        
-        <p>The remaining non-playoff teams receive 1.04, 1.05, 1.06 picks as determined by the postseason consolation bracket. The team with the highest consolation bracket finish receives the 1.04 pick. The team with the lowest consolation bracket finish receives the 1.06 pick.</p>
-        
-        <p>All 6 teams compete in a consolation bracket, with the 7th and 8th seeds receiving a bye. Semifinal consolation matchups are reseeded such that the 7th seed plays the lowest remaining seed from the quarterfinals, and the 8th seed plays the higher remaining seed. A bottom 3 team cannot improve their draft position, but they can still compete in the consolation bracket.</p>
-        
-        <ul>
-            <li>1.01 - Last place regular season team</li>
-            <li>1.02 - 11th place reagular season team</li>
-            <li>1.03 - 10th place regular season team</li>
-            <li>1.04 - Top finisher in consolation bracket</li>
-            <li>1.05 - Second finisher in consolation bracket</li>
-            <li>1.06 - Lowest finisher in consolation bracket</li>
-        </ul>
+    <p>The rookie draft order for non-playoff teams is determined by a Hybrid Consolation Bracket. The bottom 3 teams in the regular season receive the 1.01, 1.02, 1.03 picks in reverse order of regular season standings. Tiebreakers for the higher pick are determined by fewer roulette points, then fewer PPG.</p>
+    
+    <p>The remaining non-playoff teams receive 1.04, 1.05, 1.06 picks as determined by the postseason consolation bracket. The team with the highest consolation bracket finish receives the 1.04 pick. The team with the lowest consolation bracket finish receives the 1.06 pick.</p>
+    
+    <p>All 6 teams compete in a consolation bracket, with the 7th and 8th seeds receiving a bye. Semifinal consolation matchups are reseeded such that the 7th seed plays the lowest remaining seed from the quarterfinals, and the 8th seed plays the higher remaining seed. A bottom 3 team cannot improve their draft position, but they can still compete in the consolation bracket.</p>
+    
+    <ul>
+        <li>1.01 - Last place regular season team</li>
+        <li>1.02 - 11th place reagular season team</li>
+        <li>1.03 - 10th place regular season team</li>
+        <li>1.04 - Top finisher in consolation bracket</li>
+        <li>1.05 - Second finisher in consolation bracket</li>
+        <li>1.06 - Lowest finisher in consolation bracket</li>
+    </ul>
 
     <h3 bind:this={fourTwo}>4.3 Seeding Tiebreakers</h3>
     <p>If two teams finish with the same regular season roulette standings points, the tiebreakers are determined by:</p>
@@ -348,7 +348,7 @@
     <p>"Don't Be A Dick" - We all have fun playing fantasy football. In order to maximize fun, competition, and participation, each manager is expected to abide by a basic code of conduct.</p>
 
     <p>Baseline expectation is to set a competitve starting lineup, respond to trade offers in a timely manner (no counters required), don't cheat, and don't ghost us.</p>
-    
+
     <h3 bind:this={fiveOne}>5.4 Commissioner Invervention Policy</h3>
     <p>"Best Interest Clause" - Should circumstances, issues, or problems arise for which a remedy is not stated in the rules or bylaws, the commissioner committee reserves the right to take whatever actions he deems necessary in the best interest of the league.</p>
 
